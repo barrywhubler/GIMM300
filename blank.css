@@ -1,0 +1,55 @@
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+	background-image: linear-gradient(rgba(70,80,120,1), rgba(0,255,160,1));
+	  background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-size: cover;
+	
+	
+}
+.wreckt{
+	width: 90%;
+  height: auto;
+}
+.topside{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 600%;
+	text-align: center;
+	text-shadow: 0px 0px 5px #ff0000;
+}
+.midside{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 300%;
+	margin-top: 10%;
+	margin-bottum: 10%;
+	
+	
+}
+.spac{
+	
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 0px;
+	
+}
+.midsider{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 200%;
+}
+.midsiderer{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 200%;
+}
+
+a:link {
+  color: rgba(5,4,112,1.00);
+  background-color: transparent;
+  
+}
+
+
+
+
